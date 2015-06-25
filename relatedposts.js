@@ -9,5 +9,5 @@ window.onload = function () {
 	}
 	e.setAttribute("href", "http://arlinadesign.blogspot.com/");
 	e.setAttribute("rel", "nofollow");
-	e.innerHTML = "Copyright &#169; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script> <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> All Right Reserved - Created by <a href='http://arlinadesign.blogspot.com' rel='nofollow' target='_blank'>Arlina Design</a>"
+	e.innerHTML = "Copyright &#169; 2015 <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'>["data:blog.title"]</span></a> All Right Reserved - Created by <a href='http://arlinadesign.blogspot.com' rel='nofollow' target='_blank'>Arlina Design</a>"
 }
